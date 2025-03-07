@@ -1,4 +1,4 @@
-# 📌 Dynamic Array Implementation (clsDynamicArray) ⚡
+# 📌 Dynamic Array Implementation (clsDynamicArray)⚡
 
 > **A C++ template-based dynamic array implementation with powerful functionalities for managing elements efficiently. 🚀**
 
